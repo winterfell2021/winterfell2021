@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @winterfell2021
-- 👀 I’m interested in machine learning
-- 🌱 I’m currently learning CS
-- 💞️ I’m looking to collaborate on maching learning matches
+- 👀 I’m interested in llm, ctf, rust, etc.
+- 🌱 I’m currently work in Bytedance.
+- 💞️ I’m looking to collaborate on interesting stuffs.
 
 <!---
 winterfell2021/winterfell2021 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
